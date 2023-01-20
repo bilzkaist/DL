@@ -3,7 +3,6 @@ import matplotlib.image as mpimg
 import networkx as nx
 
 import os
-
 cwd = os.getcwd()
 print("cwd = ", cwd)
 floormappath = cwd + "\\data\\images\\floormapN17.jpeg"
